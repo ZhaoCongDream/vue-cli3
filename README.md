@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-project
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-cli3
+vue初始项目模板
+>>>>>>> 55e5b5b6800b12e455ce651391e07a0d1e5cc306
